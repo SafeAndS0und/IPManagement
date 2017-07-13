@@ -73,7 +73,7 @@ public class IPManagement {
                     throw new RuntimeException("Adres nie istnieje");
                 }
 
-                Thread.sleep(1500);
+                Thread.sleep(3500);
             }
 
 
